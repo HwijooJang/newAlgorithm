@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm; // 구현
 
 import java.util.Scanner;
 
